@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Sales</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Conding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsales92&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsales92" /> </p>
 
